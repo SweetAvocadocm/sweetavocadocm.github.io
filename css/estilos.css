@@ -53,6 +53,7 @@ header{
 	height: 100%;
 	display: flex;
 	list-style: none;
+	text-decoration: none;
 }
 .menu nav ul li{
 	height: 100%;
